@@ -1,2 +1,2 @@
 # WorkSpaceOnline
-# Will this to learn the basic of Git
+# Will use this to learn the basic of Git lol
